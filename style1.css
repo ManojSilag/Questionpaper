@@ -10,7 +10,7 @@ body{
 }
 
 .loader {
-	max-width: 15rem;
+	max-width: 20rem;
 	width: 100%;
 	height: auto;
 	stroke-linecap: round;
